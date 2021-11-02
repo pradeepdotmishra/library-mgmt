@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.library.mgmt.BookStokeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-11-02T16:05:57" hostname="DESKTOP-CM4R3HF" time="0.067">
+  <properties/>
+  <testcase name="the list of books in the library" classname="com.library.mgmt.BookStokeTest" time="0.047"/>
+  <testcase name="the book not found in the library" classname="com.library.mgmt.BookStokeTest" time="0.007"/>
+  <testcase name="the book is borrowed and removed from the library" classname="com.library.mgmt.BookStokeTest" time="0.004"/>
+  <testcase name="empty library" classname="com.library.mgmt.BookStokeTest" time="0.002"/>
+  <testcase name="the library reflects the updated stock of the book after return" classname="com.library.mgmt.BookStokeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
